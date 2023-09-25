@@ -1,5 +1,6 @@
 1.Cloner un repository
 git clone <URL_du_référentiel> [<nom_du_dossier_cible>]
+
 2.Les 3 commandes de push
 2.1 Pousser une branche locale vers une branche distante :
 git push <nom_distant> <nom_branche_locale>:<nom_branche_distante>
@@ -7,6 +8,7 @@ git push <nom_distant> <nom_branche_locale>:<nom_branche_distante>
 git push <nom_distant> --all
 2.3Pousser une branche locale vers la même branche distante :
 git push
+
 3.la commande qui permet de pull:
 git pull <nom_distant> <nom_branche>
 
