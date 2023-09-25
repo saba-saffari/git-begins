@@ -12,8 +12,5 @@ git push
 3.la commande qui permet de pull:
 git pull <nom_distant> <nom_branche>
 
-4. la commande permettant de créer une branche ainsi que celle qui permet de switcher de branche:
-git checkout -b add-create-branch-command
-
 
 
