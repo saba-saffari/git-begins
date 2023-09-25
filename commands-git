@@ -7,7 +7,7 @@ git push <nom_distant> <nom_branche_locale>:<nom_branche_distante>
 git push <nom_distant> --all
 2.3Pousser une branche locale vers la même branche distante :
 git push
-3.Push a local branch to a remote branch on GitHub:
-git push origin <local_branch_name>:<remote_branch_name>
+3.la commande qui permet de pull:
+git pull <nom_distant> <nom_branche>
 
 
